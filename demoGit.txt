@@ -1,3 +1,5 @@
 1.第一次提交 http://blog.csdn.net/hanhailong726188/article/details/46738929
 
 2.分支上加点东西
+
+3.想把分支上的东西合并到master上
