@@ -6,3 +6,4 @@ From https://github.com/zqxQanoy/TestGitCommand
 First, rewinding head to replay your work on top of it...
 Applying: first commit
 
+3. 这是在github 上的修改。
