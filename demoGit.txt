@@ -1,2 +1,8 @@
 1.第一次提交 http://blog.csdn.net/hanhailong726188/article/details/46738929
 
+$ git pull --rebase origin master
+From https://github.com/zqxQanoy/TestGitCommand
+ * branch            master     -> FETCH_HEAD
+First, rewinding head to replay your work on top of it...
+Applying: first commit
+
