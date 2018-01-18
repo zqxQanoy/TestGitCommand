@@ -18,4 +18,4 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 3. 这是在github 上的修改。
-
+4---------此同时， "origin"分支上做了一些修改并且做了提交了
